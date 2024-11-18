@@ -1,0 +1,14 @@
+[
+    {
+        "turma": "DS105",
+        "dia-semana": "segunda",
+        "turno": "noturno",
+        "semestre" : "2"
+    },
+    {
+        "turma": "DS115",
+        "dia-semana": "quarta",
+        "turno": "vespertino",
+        "semestre": "2"
+    }
+]
